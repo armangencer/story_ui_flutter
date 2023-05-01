@@ -10,7 +10,7 @@
 <a href="https://instagram.com/arman.gencer" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="arman.gencer" height="30" width="40" /></a>
 </p>
 
-<img src="https://github.com/armangencer/story_ui_flutter/blob/master/assets/readme.jpeg" alt="Preview" width="200" height="200">
+<img src="https://github.com/armangencer/story_ui_flutter/blob/master/assets/readme.jpeg" alt="Preview" width="500" height="500">
 
 
 <h3 align="left">Languages and Tools:</h3>
